@@ -59,14 +59,3 @@ Combined jobs: https://drive.google.com/file/d/1UnQzZZ6kXZgOj6B0tzpuSbXuKEd75jX_
 Skills.csv: https://drive.google.com/file/d/1k_lKCYEdXAg8wEF-OIQ4ixHfyprkaFmn/view?usp=share_link
 Resumes:
 https://drive.google.com/drive/folders/1F-RcsK_Eq9HLFU7vzipkLWzB93OdRNXm?usp=share_link
-
-
-Task                                        Team members
-Data Collection                 Aboli Wankhade, Dharmateja Kolluri, Saranya Gondeli
-EDA                             Dharmateja Kolluri, Aboli Wankhade
-Cleaning & Preprocessing        Saranya Gondeli, Dharmateja Kolluri
-Resume Parsing                  Dharmateja Kolluri
-Modeling                        Aboli Wankhade, Dharmateja Kolluri, Saranya Gondeli
-Validation & Evaluation         Aboli Wankhade, Saranya Gondeli
-Front End UI                    Aboli Wankhade, Dharmateja Kolluri, Saranya Gondeli
-Documentation                   Aboli Wankhade, Dharmateja Kolluri, Saranya Gondeli
